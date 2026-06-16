@@ -5,11 +5,12 @@ The Collaboration Lead is a new ESIIL Working Group role, meant to be similar to
 The person in this role does not need to have prior experience in this role, only an interest in learning more about collaboration skills and a willingness to be the point person to ensure ESIIL collaboration tools are being used systematically. 
 
 The Collaboration Lead will:
-- Attend a 2.5 hr interactive workshop with other collaboration leads and with ESIIL team science and community care staff. This workshop will allow leads to get a more in-depth understanding of ESIIL tools and support avenues.
-- Briefly communicate with the ESIIL working group support staff regularly 
-- Lead team agreement discussions, especially during the first in-person meeting and regularly throughout the period of work.
-- Lead regular review of the intellectual credit matrix and contributions table, especially as team member responsibilities change or products are developed. 
-- Be aware of group collaboration resources from ESIIL and be able to point team members to ESIIL collaboration supports as needed. 
+
+ - Attend a 2.5 hr interactive workshop with other collaboration leads and with ESIIL team science and community care staff. This workshop will allow leads to get a more in-depth understanding of ESIIL tools and support avenues.
+ - Briefly communicate with the ESIIL working group support staff regularly 
+ - Lead team agreement discussions, especially during the first in-person meeting and regularly throughout the period of work.
+ - Lead regular review of the intellectual credit matrix and contributions table, especially as team member responsibilities change or products are developed. 
+ - Be aware of group collaboration resources from ESIIL and be able to point team members to ESIIL collaboration supports as needed. 
 
 The Collaboration Lead may change over the course of the working group. If that happens, ESIIL staff will work with the new Lead to be sure they are prepared for the role. 
 
