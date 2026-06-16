@@ -16,6 +16,6 @@ The Collaboration Lead may change over the course of the working group. If that 
 
 ## Masterlist of Resources for CLs
 
-Most of the resources for your team are available from this repository and its GitHub Page. In the tabs before this section, we have provided a link to the ESIIL Code of Conduct and our Guides for Intellectual Contributions and Credit. These are also linked it our own team's personal ESIIL OASIS repository. 
+Most of the resources for your team are available from this repository and its GitHub Page. In the tabs before this section, we have provided a link to the ESIIL Code of Conduct and our Guides for Intellectual Contributions and Credit. These are also linked it your own team's personal ESIIL OASIS repository. 
 
 You can find the viewable masterlist of CL resources [here](https://docs.google.com/document/d/1TzaS50kC4DByQ9P3CwsabU9pzc2ewRmm0cgZi1Koue8/view). This document will be regularly updated. For items that are tools or templates for your team we have added individual tabs for them, such as the CRedIT Contributions Table, AI Scoreboard and other training and materials. 
