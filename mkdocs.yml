@@ -12,7 +12,7 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 
 # Page tree
 nav:
-  - Home: index.md
+  - Home: docs/index.md
   - Working Group Collaboration Resources:
         - ESIIL Code of Conduct: resources/ESIIL_Code_of_Conduct.md 
         - ESIIL Guidelines for Intellectual Contributions and Credit: resources/ESIIL_Contributions_and_Credit.md
