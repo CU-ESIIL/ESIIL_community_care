@@ -2,7 +2,7 @@
 
 Welcome to the community care team repository, part of the Environmental Data Science Innovation and Impact Lab (ESIIL). This repository serves as the central hub for our working group community care documents at ESIIL as well as resources for our different working group cohorts.
 
-This repository and GitHub Page is especially important to ESIIL Working Group Collaboration Leads (CLs). Should check back on this repository semi-frequently to find any important updates, such as new resources and materials to assist with building out the working group collaboration plan and other teaming agreements.  
+This repository and GitHub Page is especially important to ESIIL Working Group Collaboration Leads (CLs). CLs should check back on this repository semi-frequently to find any important updates, such as new resources and materials to assist with building out the working group collaboration plan and other teaming agreements.  
 
 ## A Resource for CLs
 
