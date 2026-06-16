@@ -1,11 +1,11 @@
-site_name: 'ESIIL Diversity, Equity, and Inclusion resources'
-site_description: 'Central resource for ESIIL DEI'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/ESIIL_DEI
+site_name: 'ESIIL Community Care'
+site_description: 'Central resource for ESIIL Community Care Guidelines and Resources'
+site_author: Ty Tuff and Kayleigh Ward
+site_url: https://cu-esiil.github.io/ESIIL_community_care
 
 # Repository
-repo_name: ESIIL_DEI
-repo_url: https://github.com/CU-ESIIL/ESIIL_DEI
+repo_name: ESIIL_community_care
+repo_url: https://github.com/CU-ESIIL/ESIIL_community_care
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
@@ -13,9 +13,14 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  # TODO: Add your nav sections / sub-sections and path to markdown page Ex:
-  # - Remote Sensing:
-  #     - How to Cloud Correct Sentinel-2 Images: remote_sensing/sentinel_2_cloud_correction/sentinel_2_cloud_correction.md
+  - Working Group Collaboration Resources:
+        - ESIIL Code of Conduct: resources/ESIIL_Code_of_Conduct.md 
+        - ESIIL Guidelines for Intellectual Contributions and Credit: resources/ESIIL_Contributions_and_Credit.md
+        - Collaboration Leads: resources/masterlist.md 
+        - Norming & Teaming: resources/templates.md
+        - CREdiT Tracker: resources/c_tracker.md
+        - AI Scoreboard: resources/AI_tracker.md
+ 
 
 # Configuration
 theme:
@@ -24,7 +29,7 @@ theme:
   font:
     text: 'Open Sans'
     code: 'Roboto Mono'
-  logo: 'assets/ESIIL_logo.png'
+  logo: 'docs/ESIIL_logo.png'
   favicon: 'assets/favicon.ico'
   # setting features for the navigation tab
   features:
