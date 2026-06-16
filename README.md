@@ -6,7 +6,7 @@ Welcome to the community care team repository, part of the Environmental Data Sc
 
 This repository and GitHub Page is especially made to help ESIIL Working Group Collaboration Leads (CLs) navigate their role and responsibilities. As such, while the ESIIL Community Care GitHub Page provides a variety of helpful resources **we want to caution individual team members from making duplicate templates and copies** that their CL has already made. 
 
-**If you are current ESIIL Working Group, please contact your CL first to ensure that you are not making duplicate copies of items.**
+**If you are a current ESIIL Working Group, please contact your CL first to ensure that you are not making duplicate copies of items.**
 
 ## Collaborators
 - Susan Sullivan, Community Care Lead
